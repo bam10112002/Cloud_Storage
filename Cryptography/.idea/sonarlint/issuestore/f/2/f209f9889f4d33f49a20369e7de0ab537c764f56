@@ -1,0 +1,27 @@
+
+a
+java:S1301+"KReplace this "switch" statement by "if" statements to increase readability.(›Ïæ¿
+n	java:S116#"TRename this field "BLOCKSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¦©ÿÿÿÿÿ
+­
+java:S1130)"‘Remove the declaration of thrown exception 'org.example.cryptography.exceptions.KeyLenException', as it cannot be thrown from constructor's body.(âĞüËüÿÿÿÿ
+n	java:S131+"YComplete cases by adding the missing enum constants or add a default case to this switch.(›Ïæ¿
+H
+java:S1135"2Complete the task associated to this TODO comment.(å¯•1
+H
+java:S1135¡"2Complete the task associated to this TODO comment.(å¯•1
+H
+java:S1135£"2Complete the task associated to this TODO comment.(ö˜Ò
+H
+java:S1135·"2Complete the task associated to this TODO comment.(å¯•1
+H
+java:S1135Ç"2Complete the task associated to this TODO comment.(å¯•1
+H
+java:S1135Ø"2Complete the task associated to this TODO comment.(å¯•1
+H
+java:S1135é"2Complete the task associated to this TODO comment.(å¯•1
+I
+java:S1135û"2Complete the task associated to this TODO comment.(¬™À¶
+S
+java:S1128"=Remove this unused import 'org.example.cryptography.rsa.RSA'.(õ·…¢
+[
+java:S1128	"FRemove this unused import 'org.example.cryptography.rsa.keys.KeyPair'.(”·ò

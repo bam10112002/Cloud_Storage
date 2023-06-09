@@ -1,0 +1,11 @@
+
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©
+M
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+P
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+K
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ

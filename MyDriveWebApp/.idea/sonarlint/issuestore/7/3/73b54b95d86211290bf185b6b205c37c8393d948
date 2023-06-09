@@ -1,0 +1,11 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ãîÏÀ†1
+g	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8äîÏÀ†1
+g	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8äîÏÀ†1
+o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Äòıÿÿÿÿ8şîÏÀ†1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¡Œ£®úÿÿÿÿ8şîÏÀ†1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Ü‘Â úÿÿÿÿ8ÿîÏÀ†1
+a
+java:S2147b"DCombine this catch with the one at line 96, which has the same body.(ıàÑÎ8„ïÏÀ†1
+j	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óßœ‘8†ïÏÀ†1
+j	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à·ÑÀ8†ïÏÀ†1

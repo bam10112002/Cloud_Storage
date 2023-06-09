@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-19T17:10:07" hostname="ARTEM" time="0.258">
+  <properties/>
+  <testcase name="Test1()" classname="NetTest" time="0.258"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
